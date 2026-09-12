@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: mona2}
 layers:
   WIN:
-  - Q
+  - {t: Q, h: LEFT SHIFT}
   - W
   - E
   - R
